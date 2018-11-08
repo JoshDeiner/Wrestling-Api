@@ -3,7 +3,7 @@
 ## 
 ## Deployed Api : https://wrestling-resources-api.herokuapp.com/api/v1/categories
 ### Purpose of Api is to provide a dataset of wrestling educational resources
-
+## 
 ## Using API
 
 ### Access API's main page url/ categories
