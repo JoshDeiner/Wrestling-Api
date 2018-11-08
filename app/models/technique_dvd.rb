@@ -1,0 +1,3 @@
+class TechniqueDvd < ApplicationRecord
+
+end

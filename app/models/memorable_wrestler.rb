@@ -1,0 +1,3 @@
+class MemorableWrestler < ApplicationRecord
+
+end

@@ -1,0 +1,3 @@
+class MentalPreparation < ApplicationRecord
+
+end

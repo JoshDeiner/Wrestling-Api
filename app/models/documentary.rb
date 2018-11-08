@@ -1,0 +1,3 @@
+class Documentary < ApplicationRecord
+
+end

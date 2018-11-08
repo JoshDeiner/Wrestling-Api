@@ -1,0 +1,3 @@
+class MoreSeason < ApplicationRecord
+
+end

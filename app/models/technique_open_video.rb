@@ -1,0 +1,3 @@
+class TechniqueOpenVideo < ApplicationRecord
+
+end

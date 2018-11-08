@@ -1,0 +1,3 @@
+class Motivational < ApplicationRecord
+
+end
