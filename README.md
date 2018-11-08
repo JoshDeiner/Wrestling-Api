@@ -1,25 +1,23 @@
-# README
+# Wrestling Api
+### Api built via Ruby on Rails framework
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Deployed Api : https://wrestling-resources-api.herokuapp.com/api/v1/categories
+### Purpose of Api is to provide a dataset of wrestling educational resources
 
-Things you may want to cover:
+## Using API
 
-* Ruby version
+### Access API's main page url/ categories
+### To access each indivual resource category enter id number and category name.
+### For example, plug in id and title. To access the below category use the below url: 
+#### https://wrestling-resources-api.herokuapp.com/api/v1/categories/1/books
+  {
+    "id": 1,
+    "title": "books"
+  },
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Wrestling-Api
+## Using locally 
+#### bundle install
+#### rake db:create
+#### rake db:migrate 
+#### rake db:seed 
+#### rails s
